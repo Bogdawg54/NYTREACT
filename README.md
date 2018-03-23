@@ -1,1 +1,2 @@
-# NYTREACT
+# NYTreact
+NYT React JS Homework
